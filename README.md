@@ -1,3 +1,9 @@
+# Curso :
+:: ARCH ANDROID ::
+ARQUITETURAS DE SOFTWARE MOBILE MODERNAS
+Domine os padrões e arquiteturas de software mobile modernas mais eficientes (e robustas) como MVP, MVVM, MVC, AAC, e até RxJava, Dagger, DataBinding, LiveData e muito mais.
+https://androiddeveloper.com.br/android/arch-direct?utm_campaign=AA&utm_source=blog&utm_medium=cursos-tab
+
 # MVP-evernote
 
 [![N|Linkdin](https://github.com/paulosoujava/MVP-evernote/blob/master/imagens/Captura%20de%20Tela%202020-05-06%20%C3%A0s%2008.00.40.png)](https://www.linkedin.com/in/paulo-oliveira-92127b1a0/)
